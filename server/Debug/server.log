@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  server.cpp
+    正在创建库 E:\svndir\09-高并发\libevent\TcpServer\server\bin\server.lib 和对象 E:\svndir\09-高并发\libevent\TcpServer\server\bin\server.exp
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+event_core.lib(buffer.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(buffer.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(bufferevent.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(bufferevent.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(bufferevent_ratelim.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(bufferevent_ratelim.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(bufferevent_sock.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(bufferevent_sock.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(event.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(event.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(evmap.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(evmap.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(evthread.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(evthread.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(evutil.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(evutil.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(evutil_rand.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(evutil_rand.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(evutil_time.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(evutil_time.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(listener.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(listener.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(log.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(log.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(signal.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(signal.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(strlcpy.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(strlcpy.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(buffer_iocp.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(buffer_iocp.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(bufferevent_async.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(bufferevent_async.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(event_iocp.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(event_iocp.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+event_core.lib(win32select.obj) : warning LNK4099: 未找到 PDB“event_core_shared.pdb”(使用“event_core.lib(win32select.obj)”或在“E:\svndir\09-高并发\libevent\TcpServer\server\bin\event_core_shared.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  server.vcxproj -> E:\svndir\09-高并发\libevent\TcpServer\server\bin\server.exe
